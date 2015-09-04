@@ -4,7 +4,7 @@
 package org.practice;
 
 /**
- * @author Yashoda
+ * @author Karthik
  *
  */
 public class Circle implements IShape {
